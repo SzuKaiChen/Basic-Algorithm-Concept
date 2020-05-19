@@ -32,7 +32,7 @@ __Question Types:__
 
 __Clue to use Sliding Window:__
 
-**Contiguous**
+**Contiguous Permutation Anagrams**
 
 __Example__
 
